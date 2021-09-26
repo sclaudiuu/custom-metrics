@@ -1,0 +1,9 @@
+EventController.class
+pl\mkapiczy\serversentevents\model\EventDto.class
+pl\mkapiczy\serversentevents\repository\EmitterRepository.class
+pl\mkapiczy\serversentevents\repository\InMemoryEmitterRepository.class
+pl\mkapiczy\serversentevents\mapper\EventMapper.class
+pl\mkapiczy\serversentevents\ServerSentEventsApplication.class
+pl\mkapiczy\serversentevents\service\EmitterService.class
+pl\mkapiczy\serversentevents\service\NotificationService.class
+SseNotificationService.class
